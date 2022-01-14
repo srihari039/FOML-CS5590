@@ -1,0 +1,12 @@
+Number of records: 4898
+0 completed with accuracy  0.8061224489795918
+1 completed with accuracy  0.8224489795918367
+2 completed with accuracy  0.789795918367347
+3 completed with accuracy  0.8183673469387756
+4 completed with accuracy  0.8
+5 completed with accuracy  0.8061224489795918
+6 completed with accuracy  0.8224489795918367
+7 completed with accuracy  0.789795918367347
+8 completed with accuracy  0.7689161554192229
+9 completed with accuracy  0.8057259713701431
+accuracy: 0.8030

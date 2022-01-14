@@ -1,0 +1,21 @@
+cs19btech11039
+Sri Hari M
+
+Source code: cs19btech11039.py
+Complete pdf : cs19btech11039.pdf
+Only theory questions(1 and 2) : cs19btech11039-Theory.pdf
+Only Coding and report: cs19btech11039-Report.pdf
+
+initial Result and accuracy with entropy - initial_results.txt
+Improved on depth(observed on entropy) - improvedDepth_results.txt
+Improved on Gini index(imroved from depth) - improvedGini_results.txt
+
+For initial build without constraint on depth:
+    comment line no 51
+    Indent line 54-63
+    
+For gini index:
+    comment line no 112
+    uncomment line no 111
+    
+    
